@@ -65,8 +65,8 @@ This Arduino sketch implements a simple Snake game using various components, inc
 
 ## Author
 
-This code was created by [Author Name]. Feel free to modify and enhance it for your own projects.
+This code was created by Sandru Rares-Andrei. Feel free to modify and enhance it for your own projects.
 
-## Acknowledgments
-
-Special thanks to the Arduino community and the creators of the LiquidCrystal and LedControl libraries for making this project possible.
+## Resources:
+- https://github.com/ondt/arduino-snake
+- https://www.arduino.cc/reference/en/libraries/liquidcrystal/
